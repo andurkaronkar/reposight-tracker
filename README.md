@@ -156,7 +156,7 @@ Most issues will be highlighted inside the RepoSight App.
 
 ## 🔗 Related Repository
 
-**[RepoSight App](https://github.com/username/reposight-app)**  
+**[RepoSight App](https://github.com/andurkaronkar/reposight-app)**  
 Visualization and analytics dashboard for your collected GitHub metrics.
 
 ---
