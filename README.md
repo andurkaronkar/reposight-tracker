@@ -4,6 +4,10 @@
 
 RepoSight Tracker is a lightweight GitHub Actions–based repository that collects GitHub traffic analytics for your selected repositories. It stores this data in your Supabase project so RepoSight can visualize trends over time.
 
+<div align="center">
+   <img src="/reposight-tracker-banner.png" alt="RepoSight-tracker Banner" width="900"/>
+</div>
+
 This repository runs quietly in the background once set up.
 
 ---
